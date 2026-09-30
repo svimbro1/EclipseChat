@@ -15,7 +15,7 @@ from aiogram.types import Message
 from aiogram.utils.markdown import hcode
 
 # ==================== КОНФИГ ====================
-BOT_TOKEN = "8628783756:AAEbb1-kgQJIJDiTHJmXMYTFUAM15u4PZ0k"
+BOT_TOKEN = "8628783756:AAFWgpGgwlnkf0pDUPwzuz_LZaukxqIUnpA"
 OWNER_IDS = {8985370261}  # Замени на свои user_id
 DB_PATH = "bot_data.db"
 
